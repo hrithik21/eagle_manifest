@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<remote name="nm"
+          fetch="git://github.com" />
+
+<project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="nm" revision="cm-12.1" />
+
+<project path="device/sony/msm8226-common" name="CyanogenMod/android_device_sony_msm8226-common" remote="nm" revision="cm-12.1" />
+
+<project path="device/sony/common" name="CyanogenMod/android_device_sony_common" remote="nm" revision="cm-12.1" />
+
+<project path="device/sony/eagle" name="hrithik21/android_device_sony_eagle" remote="nm" revision="cm-12.1" />
+
+<project path="vendor/sony" name="TheMuppets/proprietary_vendor_sony" remote="nm" revision="cm-12.1" />
+
+<project path="kernel/sony/msm8974" name="CyanogenMod/android_kernel_sony_msm8974" remote="nm" revision="cm-12.1" />
+
+<project path="hardware/qcom/fm" name="CyanogenMod/android_hardware_qcom_fm" remote="nm" revision="cm-12.1" />
+
+<project path="hardware/sony/thermanager" name="CyanogenMod/android_hardware_sony_thermanager" remote="nm" revision="cm-12.1" />
+
+</manifest>
